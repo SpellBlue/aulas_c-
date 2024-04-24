@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WDTGb9SUk+ESJM9yGVAZCq4zOsdfnBJfNoqhCyH9H6kNWdnCvIt5wOf5BRXUWvHYCO+Pqu1rjezwzd+nhnM7vw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\maria\\OneDrive\\Documentos\\Criações\\Aulas\\aulas\\ifelse.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maria\\.nuget\\packages\\fsharp.core\\8.0.101\\fsharp.core.8.0.101.nupkg.sha512"
+  ],
+  "logs": []
+}

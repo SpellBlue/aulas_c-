@@ -1,0 +1,14 @@
+c:\Users\maria\OneDrive\Documentos\Criações\aulas_c#\void\obj\Debug\net8.0\void.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\maria\OneDrive\Documentos\Criações\aulas_c#\void\obj\Debug\net8.0\void.AssemblyInfoInputs.cache
+c:\Users\maria\OneDrive\Documentos\Criações\aulas_c#\void\obj\Debug\net8.0\void.AssemblyInfo.cs
+c:\Users\maria\OneDrive\Documentos\Criações\aulas_c#\void\obj\Debug\net8.0\void.csproj.CoreCompileInputs.cache
+c:\Users\maria\OneDrive\Documentos\Criações\aulas_c#\void\bin\Debug\net8.0\void.exe
+c:\Users\maria\OneDrive\Documentos\Criações\aulas_c#\void\bin\Debug\net8.0\void.deps.json
+c:\Users\maria\OneDrive\Documentos\Criações\aulas_c#\void\bin\Debug\net8.0\void.runtimeconfig.json
+c:\Users\maria\OneDrive\Documentos\Criações\aulas_c#\void\bin\Debug\net8.0\void.dll
+c:\Users\maria\OneDrive\Documentos\Criações\aulas_c#\void\bin\Debug\net8.0\void.pdb
+c:\Users\maria\OneDrive\Documentos\Criações\aulas_c#\void\obj\Debug\net8.0\void.dll
+c:\Users\maria\OneDrive\Documentos\Criações\aulas_c#\void\obj\Debug\net8.0\refint\void.dll
+c:\Users\maria\OneDrive\Documentos\Criações\aulas_c#\void\obj\Debug\net8.0\void.pdb
+c:\Users\maria\OneDrive\Documentos\Criações\aulas_c#\void\obj\Debug\net8.0\void.genruntimeconfig.cache
+c:\Users\maria\OneDrive\Documentos\Criações\aulas_c#\void\obj\Debug\net8.0\ref\void.dll
